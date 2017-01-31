@@ -19,3 +19,6 @@ typings/
 .DS_Store
 
 app/app\.android\.css
+
+#google-services
+app/App_Resources/Android/google-services.json
